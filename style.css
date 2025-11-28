@@ -162,7 +162,7 @@ body {
 .chart-wrapper {
   position: relative;
   width: 70%;
-  max-width: 1150px;
+  max-width: 1000px;
   aspect-ratio: 16 / 9;
   background: rgba(0, 0, 0, 0.7);
   border-radius: 18px;
@@ -297,3 +297,4 @@ body {
     width: 36%;
   }
 }
+
